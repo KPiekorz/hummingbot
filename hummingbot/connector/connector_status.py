@@ -38,7 +38,7 @@ connector_status = {
     'perpetual_finance': 'yellow',
     'probit': 'yellow',
     'probit_kr': 'yellow',
-    'terra': 'yellow',
+    'terra': 'green',
     'uniswap': 'yellow',
     'uniswap_v3': 'yellow',
     'wazirx': 'yellow'
